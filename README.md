@@ -6,3 +6,5 @@ Cells_ManualAnalysis.xlsx contains the data generated during the manual analysis
 CellLineOnto.mwt is the dictionary generated from the Cell Line Ontology
 
 CellOnto.mwt is the dictionary generated from the Cell Ontology
+
+Cells_Representation_Analysis.V2.xlsx contains the data generated based on the representation of each individual class in literature
